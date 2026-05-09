@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-libreria",
+  "name": "demo-libreria",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Libreria — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://libreria.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-libreria.git"
+    "url": "https://github.com/fedcal/demo-libreria.git"
   },
   "scripts": {
     "ng": "ng",
