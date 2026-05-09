@@ -1,0 +1,123 @@
+{
+  "sezioni": [
+    {
+      "id": "narrativa",
+      "nome": "Narrativa",
+      "descrizione": "Romanzi, racconti e opere di narrativa italiana e internazionale. Dai classici ai bestseller contemporanei, con una selezione curata di letteratura triestina e mitteleuropea.",
+      "icona": "📖",
+      "numVolumi": 6500,
+      "lingueDisponibili": ["italiano"],
+      "prezzoMin": 9,
+      "prezzoMax": 22
+    },
+    {
+      "id": "saggistica",
+      "nome": "Saggistica",
+      "descrizione": "Filosofia, storia, economia, scienze sociali e politica. Una raccolta ampia per approfondire ogni disciplina, con particolare attenzione ai temi dell'Europa centrale e adriatica.",
+      "icona": "🏛️",
+      "numVolumi": 4200,
+      "lingueDisponibili": ["italiano"],
+      "prezzoMin": 12,
+      "prezzoMax": 35
+    },
+    {
+      "id": "ragazzi",
+      "nome": "Libri per Ragazzi",
+      "descrizione": "Albi illustrati, narrativa young adult e libri per l'infanzia. Selezione curata dalla prima età fino ai 16 anni, con titoli premiati e novità editoriali.",
+      "icona": "🧒",
+      "numVolumi": 3800,
+      "etaTarget": "0–16 anni",
+      "lingueDisponibili": ["italiano"],
+      "prezzoMin": 6,
+      "prezzoMax": 18
+    },
+    {
+      "id": "arte",
+      "nome": "Libri d'Arte",
+      "descrizione": "Monografie di artisti, cataloghi di mostre, libri di architettura, fotografia e design. Una sezione dedicata agli appassionati d'arte visiva.",
+      "icona": "🎨",
+      "numVolumi": 1200,
+      "lingueDisponibili": ["italiano", "inglese", "tedesco"],
+      "prezzoMin": 18,
+      "prezzoMax": 120
+    },
+    {
+      "id": "scolastici",
+      "nome": "Testi Scolastici",
+      "descrizione": "Libri di testo per scuole primarie, medie e superiori. Tutti i principali editori scolastici: Mondadori, Zanichelli, Loescher, DeAgostini, Pearson.",
+      "icona": "🎓",
+      "numVolumi": 2800,
+      "etaTarget": "6–19 anni",
+      "prezzoMin": 8,
+      "prezzoMax": 45
+    },
+    {
+      "id": "tecnici",
+      "nome": "Tecnici e Scientifici",
+      "descrizione": "Manuali di informatica, ingegneria, matematica, fisica, chimica e scienze naturali. Testi universitari e professionali dei principali editori accademici.",
+      "icona": "🔬",
+      "numVolumi": 2100,
+      "lingueDisponibili": ["italiano", "inglese"],
+      "prezzoMin": 20,
+      "prezzoMax": 90
+    },
+    {
+      "id": "fumetti",
+      "nome": "Fumetti e Manga",
+      "descrizione": "Comics americani, fumetti italiani, manga giapponesi e graphic novel. Collezioni complete, volumi singoli e edizioni speciali. Esperto dedicato per consigli e ordini.",
+      "icona": "💬",
+      "numVolumi": 3500,
+      "lingueDisponibili": ["italiano", "inglese", "giapponese"],
+      "prezzoMin": 5,
+      "prezzoMax": 30
+    },
+    {
+      "id": "stranieri",
+      "nome": "Libri Stranieri",
+      "descrizione": "Narrativa e saggistica in lingua originale: inglese, tedesco, francese, spagnolo, sloveno e altre lingue. Ampia selezione grazie alla posizione di frontiera di Trieste.",
+      "icona": "🌍",
+      "numVolumi": 4800,
+      "lingueDisponibili": ["inglese", "tedesco", "francese", "spagnolo", "sloveno", "altre lingue"],
+      "prezzoMin": 10,
+      "prezzoMax": 35
+    },
+    {
+      "id": "audiolibri",
+      "nome": "Audiolibri",
+      "descrizione": "Audiolibri in formato CD e codici digitali. Narrativa, saggistica e classici della letteratura italiana e internazionale letti da voci professionali.",
+      "icona": "🎧",
+      "numVolumi": 650,
+      "lingueDisponibili": ["italiano", "inglese"],
+      "prezzoMin": 12,
+      "prezzoMax": 28
+    },
+    {
+      "id": "ebooks",
+      "nome": "Ebooks",
+      "descrizione": "Codici di attivazione per ebook e prodotti digitali. Compatibili con i principali reader e-ink. Ampia selezione di titoli in italiano e in lingua straniera.",
+      "icona": "📱",
+      "numVolumi": 1800,
+      "lingueDisponibili": ["italiano", "inglese"],
+      "prezzoMin": 4,
+      "prezzoMax": 18
+    },
+    {
+      "id": "ricondizionati",
+      "nome": "Libri Ricondizionati",
+      "descrizione": "Libri in ottimo stato, selezionati e controllati dal nostro staff. Edizioni fuori catalogo, prime edizioni e titoli introvabili a prezzi accessibili.",
+      "icona": "♻️",
+      "numVolumi": 2200,
+      "prezzoMin": 3,
+      "prezzoMax": 15
+    },
+    {
+      "id": "usati",
+      "nome": "Libri Usati",
+      "descrizione": "Scambia o vendi i tuoi libri usati. Accettiamo volumi in buone condizioni e offriamo credito in negozio. Una seconda vita per ogni libro.",
+      "icona": "🔄",
+      "numVolumi": 1500,
+      "prezzoMin": 1,
+      "prezzoMax": 10
+    }
+  ]
+}

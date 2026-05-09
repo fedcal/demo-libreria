@@ -1,0 +1,44 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Sergio Volpe",
+      "ruolo": "Fondatore e Libraio",
+      "bio": "Ha fondato la libreria nel 1972 dopo una formazione a Milano da Feltrinelli. Specializzato in letteratura mitteleuropea e saggistica storica. Parla italiano, tedesco e sloveno.",
+      "anniEsperienza": 54,
+      "specialita": ["Letteratura mitteleuropea", "Saggistica storica", "Libri d'antiquariato"]
+    },
+    {
+      "id": 2,
+      "nome": "Marta Volpe",
+      "ruolo": "Libriaia — Narrativa e Ragazzi",
+      "bio": "Figlia di Sergio, laureata in Lettere a Trieste. Gestisce la sezione narrativa contemporanea e i libri per ragazzi. Organizza i club del libro mensili.",
+      "anniEsperienza": 18,
+      "specialita": ["Narrativa contemporanea", "Letteratura YA", "Club del libro"]
+    },
+    {
+      "id": 3,
+      "nome": "Roberto Kern",
+      "ruolo": "Esperto Fumetti e Stranieri",
+      "bio": "Triestino di origini austro-ungariche, legge correntemente in quattro lingue. Gestisce le sezioni fumetti, manga e libri in lingua originale. Consulente per editori esteri.",
+      "anniEsperienza": 22,
+      "specialita": ["Manga e anime", "Comics americani", "Libri in tedesco e inglese"]
+    },
+    {
+      "id": 4,
+      "nome": "Federica Dossi",
+      "ruolo": "Libriaia — Tecnici e Scolastici",
+      "bio": "Ex ingegnera riconvertita alla passione per i libri. Gestisce la sezione tecnico-scientifica e i testi scolastici. Garantisce forniture complete per studenti e professionisti.",
+      "anniEsperienza": 9,
+      "specialita": ["Testi universitari", "Informatica e tech", "Scolastica per tutti i gradi"]
+    },
+    {
+      "id": 5,
+      "nome": "Danilo Russo",
+      "ruolo": "Libraio — Usato e Ricondizionati",
+      "bio": "Bibliofilo da trent'anni, esperto di stima e valutazione del libro antico e usato. Gestisce gli acquisti e la valutazione dei libri portati dai clienti.",
+      "anniEsperienza": 30,
+      "specialita": ["Valutazione libri usati", "Prime edizioni", "Libri fuori catalogo"]
+    }
+  ]
+}

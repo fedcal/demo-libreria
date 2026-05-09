@@ -1,0 +1,49 @@
+{
+  "ragioneSociale": "Libreria del Porto S.n.c.",
+  "nomeCommerciale": "Libreria del Porto",
+  "tagline": "Libri italiani, esteri, tecnici — Trieste dal 1972",
+  "fondazione": 1972,
+  "indirizzo": {
+    "via": "Via del Porto Vecchio 14",
+    "citta": "Trieste",
+    "provincia": "TS",
+    "cap": "34121",
+    "regione": "Friuli-Venezia Giulia",
+    "paese": "Italia",
+    "lat": 45.6495,
+    "lng": 13.7768
+  },
+  "contatti": {
+    "telefono": "+39 040 555 1972",
+    "email": "info@libreriadelporto.it",
+    "social": {
+      "instagram": "https://instagram.com/libreriadelporto_demo",
+      "facebook": "https://facebook.com/libreriadelporto_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 19:30",
+    "martedi": "09:00 – 19:30",
+    "mercoledi": "09:00 – 19:30",
+    "giovedi": "09:00 – 19:30",
+    "venerdi": "09:00 – 19:30",
+    "sabato": "09:00 – 20:00",
+    "domenica": "10:00 – 13:00"
+  },
+  "servizi": {
+    "ordiniOnline": true,
+    "ordiniLibriNonDisponibili": true,
+    "giftCard": true,
+    "scontoFedelta": true,
+    "accessibileDisabili": true,
+    "wifiGratuito": true,
+    "angoloCaffe": true,
+    "mq": 420,
+    "volumi": 35000
+  },
+  "metaSeo": {
+    "title": "Libreria del Porto — Libri italiani, esteri, tecnici — Trieste dal 1972",
+    "description": "Libreria indipendente nel cuore di Trieste. 12 sezioni: narrativa, saggistica, ragazzi, arte, scolastici, tecnici, fumetti, stranieri, audiolibri, ebooks, ricondizionati, usati.",
+    "keywords": ["libreria trieste", "libri trieste", "libreria indipendente", "narrativa saggistica trieste", "fumetti trieste", "libri usati trieste"]
+  }
+}

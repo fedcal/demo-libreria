@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Posso ordinare un libro che non avete in negozio?",
+      "risposta": "Sì, accettiamo ordini per qualsiasi titolo disponibile presso i distributori italiani. I tempi di consegna sono generalmente 2–5 giorni lavorativi. Basta comunicarci ISBN o titolo+autore: ti avvisiamo appena arriva."
+    },
+    {
+      "domanda": "Esiste una carta fedeltà o uno sconto per acquisti ricorrenti?",
+      "risposta": "Sì, la Carta del Porto è gratuita e offre il 5% di sconto su tutti gli acquisti dal terzo libro in poi. Dal decimo acquisto annuale il sconto sale al 10%. Chiedila in cassa al tuo prossimo acquisto."
+    },
+    {
+      "domanda": "Vendete gift card?",
+      "risposta": "Assolutamente sì. Le Gift Card sono disponibili in negozio nei tagli da €10, €20, €30, €50 e €100. Non hanno scadenza e sono valide per tutti i prodotti in negozio inclusi ebooks e audiolibri."
+    },
+    {
+      "domanda": "Come funziona il servizio libri usati? Ritirate i miei libri?",
+      "risposta": "Accettiamo libri usati in buone condizioni (no evidenziature eccessive, no pagine strappate). La valutazione è gratuita: portali in negozio e ti offriamo credito da usare per acquisti oppure pagamento immediato al 40% del valore di stima."
+    },
+    {
+      "domanda": "Gli eventi di presentazione libri sono gratuiti?",
+      "risposta": "La maggior parte degli eventi è a ingresso libero. Alcuni eventi speciali con spettacolo o aperitivo prevedono un contributo di €5–€10 per coprire i costi. Consultate la sezione eventi per ogni dettaglio. La prenotazione è sempre consigliata."
+    },
+    {
+      "domanda": "Posso prenotare un posto per un evento?",
+      "risposta": "Sì, è consigliato prenotare il posto per gli eventi più richiesti. Usa il modulo online nella pagina eventi oppure chiama il +39 040 555 1972. La prenotazione si conferma con nome e contatto, è gratuita."
+    },
+    {
+      "domanda": "Avete libri in lingua slovena o tedesca?",
+      "risposta": "Trieste ha una storia di frontiera e lo riflettiamo nel catalogo. Abbiamo una selezione permanente di narrativa e saggistica in tedesco, sloveno, inglese e francese. Per ordini specifici in lingue meno comuni contattateci: abbiamo accesso a distributori esteri."
+    },
+    {
+      "domanda": "Come posso ricevere consigli sui regali?",
+      "risposta": "Il nostro staff è sempre disponibile per consigli personalizzati. In negozio dite l'età, i gusti e il budget del destinatario: troveremo il titolo giusto. Offriamo anche il servizio 'pacco regalo firmato libraio' con incarto elegante e messaggio personalizzato."
+    }
+  ]
+}
